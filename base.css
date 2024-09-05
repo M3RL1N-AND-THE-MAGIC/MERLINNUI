@@ -7,11 +7,11 @@
 }
 
 :root {
-    --version: "1-116"; /* 0-00 */
-    --currentVersion: "WizardUI v" var(--version);
+    --version: "01"; /* 0-00 */
+    --currentVersion: "MERLIN | UI | V" var(--version);
     /* MAIN VARIABLES */
     --AppName: "DISCORD";
-    --Watermark: "WizardUI";
+    --Watermark: "MERLIN | UI";
     --font: 'Inter', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
     --logo: url(https://goldenlys.github.io/WizardUI/images/home.png);
